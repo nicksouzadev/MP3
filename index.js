@@ -88,18 +88,14 @@ function togglePlay() {
 
 function playMusic() {
     isPlaying = true;
-    // Altera o ícone do botão de reprodução
     playBtn.classList.replace('fa-play', 'fa-pause');
-    // Define o título do hover do botão
     playBtn.setAttribute('title', 'Pause');
     music.play();
 }
 
 function pauseMusic() {
     isPlaying = false;
-    // Altera o ícone do botão de pausa
     playBtn.classList.replace('fa-pause', 'fa-play');
-    // Define o título do hover do botão
     playBtn.setAttribute('title', 'Play');
     music.pause();
 }
