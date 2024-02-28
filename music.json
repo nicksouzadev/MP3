@@ -1,0 +1,62 @@
+[
+    {
+        "path": "assets/music/1.mp3",
+        "displayName": "Senhor Tu És a Minha Porção",
+        "cover": "assets/music/1.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/2.mp3",
+        "displayName": "Teu servo ouve, fala Senhor!",
+        "cover": "assets/music/2.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/3.mp3",
+        "displayName": "Deus nos elegeu para Si",
+        "cover": "assets/music/3.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/4.mp3",
+        "displayName": "Somos jóias preciosas!",
+        "cover": "assets/music/4.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/5.mp3",
+        "displayName": "Cristo é a Esperança",
+        "cover": "assets/music/5.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/6.mp3",
+        "displayName": "Sou crente em Jesus",
+        "cover": "assets/music/6.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/7.mp3",
+        "displayName": "Senhor, conforta meu coração",
+        "cover": "assets/music/7.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/8.mp3",
+        "displayName": "Eu desejo Senhor!",
+        "cover": "assets/music/8.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+        "path": "assets/music/9.mp3",
+        "displayName": "De Deus tu és eleita",
+        "cover": "assets/music/9.jpg",
+        "artist": "Ester Alcântara"
+    },
+    {
+       "path": "assets/music/10.mp3",
+       "displayName": "Eu sou um Cordeirinho!",
+       "cover": "assets/music/10.jpg",
+       "artist": "Ester Alcântara"
+    }
+]
